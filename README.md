@@ -1,5 +1,4 @@
-I'm Jean Pierre Charalambos, researcher & educator passionate about creating didactic tools through creative coding and visual computing.  
-I build open-source tools to make learning more playful 🖥️📚.
+I'm Jean Pierre Charalambos, researcher & educator passionate about creating didactic tools through creative coding and visual computing. I build open-source tools to make learning more playful 🖥️📚.
 
 ---
 
@@ -17,13 +16,6 @@ I build open-source tools to make learning more playful 🖥️📚.
 [![OOP Book 📘](https://img.shields.io/badge/OOP__Book_📘-FF8C00)](https://objetos.github.io/docs/)
 [![Visual Computing Course](https://img.shields.io/badge/Visual_Computing_Course-00BFFF?logo=github)](https://github.com/VisualComputing)
 [![OOP Course](https://img.shields.io/badge/OOP_Course-32CD32?logo=github)](https://github.com/objetos)
-
----
-
-## 📚 Recent Publications
-
-[![JORS nub](https://img.shields.io/badge/JORS nub-0066CC?logo=googlescholar)](https://doi.org/10.5334/jors.477)
-[![SoftwareX p5.quadrille.js](https://img.shields.io/badge/SoftwareX p5.quadrille.js-228B22?logo=googlescholar)](https://www.sciencedirect.com/science/article/pii/S2352711024002097)
 
 ---
 
