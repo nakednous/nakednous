@@ -13,7 +13,7 @@ I'm Jean Pierre Charalambos, researcher & educator passionate about creating did
 
 ## 🎓 Teaching Resources
 
-[![OOP Book 📘](https://img.shields.io/badge/OOP__Book_📘-FF8C00)](https://objetos.github.io/docs/)
+<!-- [![OOP Book 📘](https://img.shields.io/badge/OOP__Book_📘-FF8C00)](https://objetos.github.io/docs/) -->
 [![Visual Computing Course](https://img.shields.io/badge/Visual_Computing_Course-00BFFF?logo=github)](https://github.com/VisualComputing)
 [![OOP Course](https://img.shields.io/badge/OOP_Course-32CD32?logo=github)](https://github.com/objetos)
 
